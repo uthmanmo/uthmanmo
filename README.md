@@ -1,7 +1,11 @@
 # 👋 Hey there! I'm Othman
 
 I'm an aspiring **Data Scientist** on a mission to turn data into decisions. I specialize in exploring, cleaning, analyzing, and visualizing data using the latest tools and techniques in the field of data science.
+
+
 ---
+
+
 ## 🧠 What I Do
 
 🔹 **Data Cleaning & Preparation**  
@@ -42,6 +46,8 @@ A collection of box plots, bar charts, pie charts, and scatter plots using real-
 
 📌 **Portfolio Dashboard (coming soon)**  
 A Streamlit app dashboard summarizing all my work in an interactive way.
+
+
 ---
  
 

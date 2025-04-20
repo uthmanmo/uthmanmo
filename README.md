@@ -1,9 +1,7 @@
 # 👋 Hey there! I'm Othman
 
 I'm an aspiring **Data Scientist** on a mission to turn data into decisions. I specialize in exploring, cleaning, analyzing, and visualizing data using the latest tools and techniques in the field of data science.
-
 ---
-
 ## 🧠 What I Do
 
 🔹 **Data Cleaning & Preparation**  
@@ -26,19 +24,7 @@ Exploring tools like `Apache Spark`, `Hadoop`, and using cloud platforms like `G
 
 🔹 **Machine Learning** (Learning Phase 🤖)  
 Understanding ML fundamentals with `Scikit-learn` and working toward building simple models and predictions.
-
 ---
-
-## 🛠 Tools, Languages & Environments
-
-| Language | Tools & Libraries | Databases | Environments |
-|---------|-------------------|-----------|--------------|
-| Python 🐍 | Pandas, NumPy, Matplotlib, Seaborn, Plotly | SQLite, PostgreSQL, MySQL | Jupyter Notebook, VS Code, Google Colab |
-| SQL 🔍 | psycopg2, SQLAlchemy | MongoDB (Learning) | Linux Terminal, Git, GitHub |
-| Others 🔧 | Excel, OpenPyXL, BeautifulSoup, Selenium | Redis (Learning) | Kaggle, Streamlit, Power BI (Learning) |
-
----
-
 ## 📁 Featured Projects
 
 📌 **Web Scraping Projects**  
@@ -52,16 +38,8 @@ A collection of box plots, bar charts, pie charts, and scatter plots using real-
 
 📌 **Portfolio Dashboard (coming soon)**  
 A Streamlit app dashboard summarizing all my work in an interactive way.
-
 ---
-
-## 🎯 Learning Goals for 2025
-
-- ✅ Master SQL for complex queries and real-world scenarios  
-- ✅ Build and deploy data dashboards using Streamlit  
-- ⏳ Learn basic ML algorithms using Scikit-learn  
-- ⏳ Work with cloud tools (AWS, GCP, Azure)  
-- ⏳ Practice Big Data processing with Apache Spark  
+ 
 
 ---
 

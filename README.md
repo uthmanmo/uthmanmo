@@ -24,7 +24,11 @@ Exploring tools like `Apache Spark`, `Hadoop`, and using cloud platforms like `G
 
 🔹 **Machine Learning** (Learning Phase 🤖)  
 Understanding ML fundamentals with `Scikit-learn` and working toward building simple models and predictions.
+
+
 ---
+
+
 ## 📁 Featured Projects
 
 📌 **Web Scraping Projects**  

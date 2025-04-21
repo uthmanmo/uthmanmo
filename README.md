@@ -32,23 +32,6 @@ Understanding ML fundamentals with `Scikit-learn` and working toward building si
 
 ---
 
-
-## 📁 Featured Projects
-
-📌 **Web Scraping Projects**  
-Scraping real websites and saving data into structured formats like CSV, Excel, or SQLite.
-
-📌 **Data Analysis with SQLite & PostgreSQL**  
-Using SQL and Python to perform business-focused analysis, generating actionable insights.
-
-📌 **Pandas Visualization Gallery**  
-A collection of box plots, bar charts, pie charts, and scatter plots using real-world datasets.
-
-📌 **Portfolio Dashboard (coming soon)**  
-A Streamlit app dashboard summarizing all my work in an interactive way.
-
-
----
  
 
 ---

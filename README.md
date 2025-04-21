@@ -8,13 +8,14 @@ I'm an aspiring **Data Scientist** on a mission to turn data into decisions. I s
 
 ## 🧠 What I Do
 
+
 🔹 **Data Cleaning & Preparation**  
 Using `Pandas`, `NumPy`, and `OpenPyXL` to clean, transform, and prepare datasets for analysis.
 
 🔹 **Data Analysis & EDA (Exploratory Data Analysis)**  
 Performing deep data explorations with Python, `Jupyter`, `Pandas`, `Matplotlib`, and `Seaborn`.
 
-🔹 **SQL & Databases**  
+🔹 **SQL & Relational Databases**  
 Working with `SQLite`, `PostgreSQL`, and `MySQL` to run complex queries, build dashboards, and extract insights.
 
 🔹 **Web Scraping & Data Collection**  
@@ -29,12 +30,11 @@ Exploring tools like `Apache Spark`, `Hadoop`, and using cloud platforms like `G
 🔹 **Machine Learning** (Learning Phase 🤖)  
 Understanding ML fundamentals with `Scikit-learn` and working toward building simple models and predictions.
 
+🔹 **Statistical Analysis & Reporting**
+
 
 ---
 
- 
-
----
 
 <!---
 uthmanmo/uthmanmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
